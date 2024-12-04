@@ -1,0 +1,10 @@
+/* inline css: add style inside html tags <p style='color:blue'>hello css</p>
+
+internal css:adding style tag inside header
+<head>
+<style>
+</style>
+</head>
+
+external css: external css file created and linked
+<link rel="stlesheet" type='text/css' href="style.css"> */

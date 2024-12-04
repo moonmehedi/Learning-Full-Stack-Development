@@ -1,0 +1,15 @@
+/* mouse hover or moveing style */
+
+.myBtn{
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+    padding: 30px;
+
+}
+
+
+/* when we place mouse pointer on this element this element will turn to green */
+.myBtn:hover{
+background-color: green;    
+}

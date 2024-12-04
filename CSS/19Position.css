@@ -1,0 +1,21 @@
+.myposition{
+    position:fixed;
+    background-color: red;
+    color: green;
+    top:100px;
+}
+
+.myposition{
+    position:relative;
+    background-color: red;
+    color: green;
+    top:100px;
+}
+.myposition{
+    position:absolute ;
+    background-color: red;
+    color: green;
+    top:100px;
+}
+
+/* 3 property of position fixed relative and absulute */

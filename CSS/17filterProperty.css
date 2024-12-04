@@ -1,0 +1,8 @@
+/* applying filter or affect in img field */
+img{
+    width: 200px;
+    height: auto;
+    filter:brightness(.5);
+    filter:invert(10);
+    filter:contrast(-10);
+}

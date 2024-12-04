@@ -1,0 +1,17 @@
+.btn{
+    /* important will force to listen to this attribute only */
+
+    background-color: red !important; 
+    border-radius: 6px;
+    color: white;
+    padding: 90px;
+}
+
+
+/* will listen to last class */
+.btn{
+    background-color: black;
+    border-radius: 6px;
+    color: white;
+    padding: 90px;
+}

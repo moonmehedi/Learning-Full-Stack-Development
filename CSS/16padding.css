@@ -1,0 +1,6 @@
+.btn{
+    /* leaves spaces outside of the element */
+    margin: 20px;
+    /* leave space inside of the element */
+    padding: 20px;
+}

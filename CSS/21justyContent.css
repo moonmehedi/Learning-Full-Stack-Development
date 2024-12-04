@@ -1,0 +1,27 @@
+/* learn content of justyfy properties */
+
+
+.test{
+    display: flex;
+    justify-content: space-evenly!important;
+}
+.test{
+    display: flex;
+    justify-content: flex-start;
+}
+.test{
+    display: flex;
+    justify-content: flex-end ;
+}
+.test{
+    display: flex;
+    justify-content:center ;
+}
+.test{
+    display: flex;
+    justify-content: space-around;
+}
+.test{
+    display: flex;
+    justify-content:space-between;
+}

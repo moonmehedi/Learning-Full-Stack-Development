@@ -1,0 +1,12 @@
+/* css background property */
+
+body{
+    /* background: aqua; */
+    background: url("https://media.istockphoto.com/id/474935824/photo/minions-toy-isolated-on-white-background.jpg?s=2048x2048&w=is&k=20&c=NsRJfcjbfOpizT0zC4EV-A1-z8R3J-l51P0Gg1AuOIA=");
+
+    /* background:no-repeat; */
+    object-fit: cover;
+    background-position: right;
+    background-attachment: fixed;
+    
+}

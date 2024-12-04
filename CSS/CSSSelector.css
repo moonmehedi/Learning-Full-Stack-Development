@@ -1,0 +1,31 @@
+/* element selector */
+
+h1{
+
+}
+
+/* class selector */
+/* this style will work for this class only */
+.my-test-style{
+
+    /* define style here */
+}
+
+/* id selector */
+/* id is always unique can be used to design something specific */
+#my-text-style{
+
+}
+
+/* universal selector */
+this will work for entire html
+*{
+    /* define style here */
+}
+
+
+/* gropu selector */
+/* i can group class id etc  */
+h1,h1,p{
+    /* define css here */
+}
